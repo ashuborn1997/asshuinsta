@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id"> uNw1Xmj4SBvDKDl5SQpZy1gZCHz4aAkUZOabPZvQ </string>
+    <string name="back4app_client_key">90mIYMUEMFres5yKph7zBlr10ivazXNIJfgBrEO5</string>
+    
+    
+</resources>
